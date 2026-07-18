@@ -1,9 +1,7 @@
-pip install python-telegram-bot==20.9
-pip install python-telegram-bot[job-queue]
-pip install mnemonic
-pip install bip-utils
-pip install base58
-pip install solders
-pip install solana
-pip install flask
-pip install asyncio
+python-telegram-bot[job-queue]==20.9
+mnemonic
+bip-utils
+base58
+solders
+solana
+flask
