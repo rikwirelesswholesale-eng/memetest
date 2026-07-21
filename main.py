@@ -1082,7 +1082,7 @@ async def show_main_menu(update: Update, context: ContextTypes.DEFAULT_TYPE, for
         [InlineKeyboardButton("Transactions 📜", callback_data="tx"), InlineKeyboardButton("Settings ⚙️", callback_data="settings")],
         [
             InlineKeyboardButton("Refresh 🔄", callback_data="refresh"),
-            InlineKeyboardButton("Support 🆘", url="https://t.me/FomoLiveSupport")
+            InlineKeyboardButton("Support 🆘", url="https://t.me/InvoAisupport")
         ],
     ]
 
